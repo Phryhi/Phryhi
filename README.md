@@ -3,8 +3,8 @@
 ## 💫 Sobre mim:
 Sou estudante de graduação em **Análise e Desenvolvimento de Sistemas**, possuo certa afinidade com PHP e Python, porém sou hater de javascript🤚. Adoro projetos envolvendo arduino e robótica no geral, mas admito que C++ não é o meu forte.</br> Atualmente colaboro em um projeto de iniciação científica da Universidade de Marília, participando do desenvolvimento de um atlas virtual de histologia.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@najuia_22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-julia-chiezi-936621338/) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)]([SEU_LINK_AQUI](https://discord.com/users/phryhi))
+## 🌐 Sociais:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@najuia_22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-julia-chiezi-936621338/) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/phryhi)
 
 
 # 💻 Tech Stack:

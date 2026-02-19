@@ -1,9 +1,10 @@
-# Olá!
+# Hey, there!
 
-## 💫 Sobre mim:
-Sou estudante de graduação em **Análise e Desenvolvimento de Sistemas**, possuo certa afinidade com PHP e Python, porém sou hater de javascript🤚. Adoro projetos envolvendo arduino e robótica no geral, mas admito que C++ não é o meu forte.</br> Atualmente colaboro em um projeto de iniciação científica da Universidade de Marília, participando do desenvolvimento de um atlas virtual de histologia.
+## 💫 About me:
+I’m an undergraduate student in **Systems Analysis and Development** (Análise e Desenvolvimento de Sistemas) with a strong affinity for PHP and Python. While JavaScript isn’t my favorite technology, I enjoy exploring different tools and approaches. I’m especially passionate about Arduino projects and robotics in general, although I’m still developing my skills in C++. My GitHub currently focuses on small projects aimed at strengthening my abilities, some API projects are still in development, and I’m looking forward to making them public soon😭<br/>Currently, I collaborate on a scientific initiation project at the University of Marília, contributing to the development of a virtual histology atlas.
 
-## 🌐 Sociais:
+
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@najuia_22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-julia-chiezi-936621338/) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/phryhi)
 
 

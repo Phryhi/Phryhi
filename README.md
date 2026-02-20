@@ -1,6 +1,5 @@
-# Hey, there!
+![132076649-deb6ae63-22b4-4edb-a53a-5a9afbb8e43f](https://github.com/user-attachments/assets/23245489-30fe-4624-844a-ff4d6e016bfa)
 
-## 💫 About me:
 I’m an undergraduate student in **Systems Analysis and Development** (Análise e Desenvolvimento de Sistemas) with a strong affinity for PHP and Python. While JavaScript isn’t my favorite technology, I enjoy exploring different tools and approaches. I’m especially passionate about Arduino projects and robotics in general, although I’m still developing my skills in C++. My GitHub currently focuses on small projects aimed at strengthening my abilities, some API projects are still in development, and I’m looking forward to making them public soon😭<br/>Currently, I collaborate on a scientific initiation project at the University of Marília, contributing to the development of a virtual histology atlas.
 
 
